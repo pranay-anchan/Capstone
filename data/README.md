@@ -24,6 +24,14 @@
 - 'Employed': employed rate (16+) (%)
 - 'Unemployment': Unemployment rate (%)
 
+- 'Drive': % commuting alone in a car, van, or truck
+- 'Carpool': % carpooling in a car, van, or truck
+- 'Transit': % commuting on public transportation
+- 'Walk': % walking to work
+- 'OtherTransp': % commuting via other means
+- 'WorkAtHome': % working at home
+- 'MeanCommuteMean': commute time (minutes)
+
 ## Crime
 - 'FELONY': Number of felony crimes in the taxi zone
 - 'VIOLATION': Number of violation crimes in the taxi zone
