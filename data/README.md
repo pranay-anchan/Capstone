@@ -38,8 +38,8 @@
 - 'MISDEMEANOR': Number of misdemeanor crimes in the taxi zone
 
 ## Transportation
-- 'subway': Distance to the nearest subway entrance
-- 'bus': Distance to the nearest bus stop
+- 'subway': Number of subway entrances
+- 'bus': Number of bus stops
 
 ## Education
 - 'sat': Average score of SAT reading, math, and writing.
